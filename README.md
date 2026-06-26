@@ -26,8 +26,8 @@ MVC включает в себя 3 типа объектов:
 
 |Компонент|	Реализация|	Назначение|
 | --- | --- | --- |
-|Model	|DataPoint, GraphModel	|Хранение и управление данными|
-|View	|ThemeWidget, QTreeView, QTableView	|Отображение данных пользователю|
+|Model	|DataPoint	|Хранение и управление данными|
+|View	|ThemeWidget	|Отображение данных пользователю|
 |Controller	|MainWindow	|Обработка действий пользователя, связь Model и View|
 
 ### Паттерн Адаптер (Adapter)
