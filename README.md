@@ -3,7 +3,7 @@
 
 В ходе лабораторной работы необходимо:
 
-- Реализовать загрузку данных из SQLite и JSON;
+- Реализовать загрузку данных из SQLite;
 
 - Построить графики по загруженным данным;
 
@@ -47,8 +47,6 @@ MVC включает в себя 3 типа объектов:
 
 - Отображение содержимого выбранной папки в таблице;
 
-- Выбор SQLite-файла или JSON-файла.
-
 ### Работа с источниками данных
 
 - Определение таблицы данных и её колонок;
@@ -78,12 +76,11 @@ MVC включает в себя 3 типа объектов:
 ## Тестирование
 
 <img width="1454" height="1074" alt="Безымянный" src="https://github.com/user-attachments/assets/514b79ca-db74-481e-bf6c-0b7cd070eed6" />
-<img width="1454" height="1074" alt="Безымянный" src="https://github.com/user-attachments/assets/ef1bcb82-cf05-4f2b-b3e8-89e4bb01ed83" />
-<img width="1454" height="1074" alt="Безымянный" src="https://github.com/user-attachments/assets/e2e28d7a-252e-4bfb-ac3e-c957e272631a" />
-<img width="1197" height="714" alt="image" src="https://github.com/user-attachments/assets/3161bd39-a1c5-4219-83cb-10abbbbb2522" />
-<img width="1454" height="1074" alt="Безымянный" src="https://github.com/user-attachments/assets/1e52aae5-564a-40bc-a57d-c447a28e6cd0" />
-<img width="1454" height="1074" alt="Безымянный" src="https://github.com/user-attachments/assets/eed9ab50-9908-4946-be6b-7d79556fcbd7" />
-<img width="1454" height="1074" alt="Безымянный" src="https://github.com/user-attachments/assets/c579d5f5-edae-4768-9ea7-6b1e47497280" />
+<img width="1454" height="1074" alt="Безымянный" src="https://github.com/user-attachments/assets/dd36307f-2563-4b47-ae65-1575b95b6aef" />
+<img width="1284" height="677" alt="image" src="https://github.com/user-attachments/assets/b1d32ca3-eb29-4bec-b459-b38edecfeccc" />
+<img width="1282" height="683" alt="image" src="https://github.com/user-attachments/assets/e7c20b89-a2ae-4ce3-8304-092fa63c302d" />
+
+
 
 
 
