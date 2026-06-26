@@ -47,12 +47,6 @@ QVector<DataPoint> SQLiteReader::readData(const QString& path)
                       .arg(dateColumn).arg(valueColumn).arg(tableName);
     QSqlQuery query(db);
 
-    if (!query.exec(sql)) {
-        qDebug() << "Ошибка SQL:" << query.lastError().text();
-                                         db.close();
-        return result;
-    }
-
     while (query.next()) {
         DataPoint point;
         QString dateStr = query.value(0).toString();
