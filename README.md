@@ -35,6 +35,7 @@ MVC включает в себя 3 типа объектов:
 другой объект даже не знает о наличии первого.
 
 ### UML-диаграмма 
+<img width="2516" height="1577" alt="Diagram drawio" src="https://github.com/user-attachments/assets/0f5a3e16-ea0b-433e-9874-b0177e75acec" />
 
 
 ## Функционал программы
